@@ -1,4 +1,4 @@
 NEJMigrate
 ==========
 
-migrate old-project to nej dependency management
+NEJ依赖迁移工具
