@@ -1,0 +1,12 @@
+{
+   "{pro}a/a.a.js":["{pro}a/a.js"],
+   "{pro}a/a.a.a.js":["{pro}a/a.a.js"],
+   "{pro}b/b.b.js":["{pro}b/b.js"],
+   "{pro}b/b.b.b.js":["{pro}b/b.b.js"],
+   "{pro}c/c.c.js":["{pro}c/c.js"],
+   "{pro}c/c.c.c.js":["{pro}c/c.c.js"],
+   "{pro}a.b.js":["{pro}a/a.js","{pro}b/b.js"],
+   "{pro}b.c.js":["{pro}b/b.js","{pro}c/c.js"],
+   "{pro}c.a.js":["{pro}c/c.js","{pro}a/a.js"],
+   "{pro}index.js":["{pro}a.b.js","{pro}b.c.js","{pro}c.a.js"]
+}
